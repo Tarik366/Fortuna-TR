@@ -1,0 +1,30 @@
+{
+  "version": "0x04010000",
+  "platform": "NX",
+  "font_width": 200,
+  "font_height": 140,
+  "ascent": 104,
+  "line_feed": 140,
+  "char_encoding": 1,
+  "sheet_count": 1,
+  "sheet_width": 128,
+  "sheet_height": 64,
+  "cell_width": 76,
+  "cell_height": 60,
+  "cells_per_row": 1,
+  "cells_per_column": 1,
+  "texture_format": "BC4",
+  "char_map": {
+    "57856": 0
+  },
+  "glyph_to_char": {
+    "0": 57856
+  },
+  "glyph_widths": {
+    "0": {
+      "left": -2,
+      "glyph_width": 76,
+      "char_width": 100
+    }
+  }
+}
